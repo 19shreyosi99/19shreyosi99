@@ -21,7 +21,7 @@
 
 <br><br><br>
 ---
-<img align='right' alt='coding img' width='50%' src='https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=6c09b952lrffel0rjck9c7yzq56tktczp5e5zff8nlzjt5sh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
+<img align='right' alt='coding img' style="width: 72vh; height: 40vh;" src='https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=6c09b952lrffel0rjck9c7yzq56tktczp5e5zff8nlzjt5sh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
 
 - 🔭 I've developed a **Personal Finance Management Application**
 
