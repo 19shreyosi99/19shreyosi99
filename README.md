@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Shreyosi Paul</h1>
 <h3 align="center">------------Full Stack Developer------------</h3>
-<img align='right' alt='coding img' width='50%' src='https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=6c09b952lrffel0rjck9c7yzq56tktczp5e5zff8nlzjt5sh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
+<img align="right" alt="coding img" style="width: 72vh; height: 40vh;" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952ap4ui1wvf6n57vftdcmcj0gxs775kz4s6ycuwqpz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=19shreyosi99&label=Profile%20views&color=0e75b6&style=flat" alt="19shreyosi99" /> 
@@ -16,10 +17,11 @@
 🔭 I’m Consistent, Hard-Working, and Motivated person.<br>
 🤝 I’m currently learning advanced Programming stuff.<br>
 🌱 Hailing from West Bengal, India.<br>
-⚡ Interests: Photography, cooking, and exploring new places.
+⚡ Interests: Photography, Cooking, and Exploring new places.
 
 <br><br><br>
 ---
+<img align='right' alt='coding img' width='50%' src='https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=6c09b952lrffel0rjck9c7yzq56tktczp5e5zff8nlzjt5sh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
 
 - 🔭 I've developed a **Personal Finance Management Application**
 
