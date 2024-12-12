@@ -1,9 +1,25 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" 
+     alt="MasterHead" 
+     style="width: 160vh; height: 60vh; object-fit: cover;" />
+
+
+
 <h1 align="center">Hi 👋, I'm Shreyosi Paul</h1>
 <h3 align="center">------------Full Stack Developer------------</h3>
-<img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
+<img align='right' alt='coding img' width='50%' src='https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=6c09b952lrffel0rjck9c7yzq56tktczp5e5zff8nlzjt5sh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshajoshi481&label=Profile%20views&color=0e75b6&style=fla" alt="19shreyosi99" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=19shreyosi99&label=Profile%20views&color=0e75b6&style=flat" alt="19shreyosi99" /> 
+</p>
+
+💻 I'm passionate learner diving into the world of programming, focusing on a variety of programming languages and technologies.<br>
+🔭 I’m Consistent, Hard-Working, and Motivated person.<br>
+🤝 I’m currently learning advanced Programming stuff.<br>
+🌱 Hailing from West Bengal, India.<br>
+⚡ Interests: Photography, cooking, and exploring new places.
+
+<br><br><br>
+---
 
 - 🔭 I've developed a **Personal Finance Management Application**
 
