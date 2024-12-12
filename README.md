@@ -1,11 +1,9 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
-<h1 align="center">Hi 👋, I'm Shreyosi</h1>
+<h1 align="center">Hi 👋, I'm Shreyosi Paul</h1>
 <h3 align="center">------------Full Stack Developer------------</h3>
 <img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=19shreyosi99&label=Profile%20views&color=0e75b6&style=flat" alt="19shreyosi99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19shreyosi99" alt="19shreyosi99" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshajoshi481&label=Profile%20views&color=0e75b6&style=fla" alt="19shreyosi99" /> </p>
 
 - 🔭 I've developed a **Personal Finance Management Application**
 
